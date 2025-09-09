@@ -1,6 +1,5 @@
 connect3
 hackertype
-git
 veloce
 fake-virus
 yohoho
